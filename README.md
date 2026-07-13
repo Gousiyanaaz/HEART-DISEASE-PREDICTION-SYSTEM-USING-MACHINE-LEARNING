@@ -12,15 +12,15 @@ User-friendly Tkinter graphical interface
 Instant prediction using a trained Random Forest model
 Simple and easy-to-use application
 
-Technologies Used
+Technologies Used : 
 Python | Pandas | NumPy | Scikit-learn | Tkinter | Joblib
 
-Dataset
+Dataset : 
 The model is trained using a Heart Disease dataset containing patient 
 health attributes such as age, sex, chest pain type, resting blood pressure, 
 cholesterol,asting blood sugar, ECG results, maximum heart rate, exercise-induced angina, oldpeak, slope, ca, and thal.
 
-How to Run
+How to Run : 
 Clone this repository.
 Install the required libraries.
 Run the Python application.
